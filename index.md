@@ -10,6 +10,5 @@ species distribution modeling, movement ecology, and citizen science.
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Conservation of Tidal Marsh Endemic Birds
+- Scientific Outreach and Public Engagement
