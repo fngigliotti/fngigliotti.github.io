@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-[My CV](pdfs/Franco_Gigliotti_CV_08102020.pdf)
+[My CV](images/Franco_Gigliotti_CV_08102020.pdf)
 ## Currently
 
 Current Position Description
